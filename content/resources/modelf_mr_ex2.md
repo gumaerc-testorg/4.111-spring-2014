@@ -1,13 +1,17 @@
 ---
 content_type: resource
 description: Front-facing perspective of model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-111-introduction-to-architecture-environmental-design-spring-2014/aec5dad0a94579f79677eac6c4b3f581_modelF_mr_ex2.jpg
+file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/aec5dad0a94579f79677eac6c4b3f581_modelF_mr_ex2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Front-facing perspective of model.
   credit: ''
   image-alt: Photograph of thread model with thread mapping out connections between
     two acrylic plates.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Exercise 2
+parent_type: CourseSection
 resourcetype: Image
 title: modelF_mr_ex2.jpg
 uid: aec5dad0-a945-79f7-9677-eac6c4b3f581

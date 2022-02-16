@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Photograph of wire.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-111-introduction-to-architecture-environmental-design-spring-2014/0a002444121285e6e262f84b8b2cccca_wire_kw_ex1.jpg
+file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/0a002444121285e6e262f84b8b2cccca_wire_kw_ex1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Photograph of wire.
   credit: ''
   image-alt: Wire bent at several different angles in a clockwise direction.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Exercise 1
+parent_type: CourseSection
 resourcetype: Image
 title: wire_kw_ex1.jpg
 uid: 0a002444-1212-85e6-e262-f84b8b2cccca

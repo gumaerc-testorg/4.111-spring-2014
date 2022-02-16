@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 957b4d6f-d0d4-c815-84f9-80f5e17a52ab
 ---
@@ -21,7 +24,7 @@ READINGS AND REFERENCES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-A Trans‐Scalar‐Practice: 10‐03 to 10+07 (From Objects to Earth through Time and Space)
+A Trans‐Scalar‐Practice: 10{{< sup "‐03" >}} to 10{{< sup "+0" >}}{{< sup "7" >}} (From Objects to Earth through Time and Space)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -54,7 +57,7 @@ _[Design Q & A](http://www.imdb.com/title/tt0287408/)._ Directed by Charles, and
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-10+00 the Human Scale: Bauhaus/Eames
+10{{< sup "+00" >}} the Human Scale: Bauhaus/Eames
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -73,7 +76,7 @@ Neuhart, J., M. Neuhart, and R. Eames. _Eames Design: The Work of the Office of 
 
 ### Films and Links
 
-Bauhaus: The Face of the 20th Century. Directed by Frank Whitford. Black and White/ color, 55 min. DVD. 1994. Films for the Humanities & Sciences, 2004.
+Bauhaus: The Face of the 20{{< sup "th" >}} Century. Directed by Frank Whitford. Black and White/ color, 55 min. DVD. 1994. Films for the Humanities & Sciences, 2004.
 
 _The Films of Charles and Ray Eames_. Directed by Charles and Ray Eames. 1972. Image Entertainment, 2005.
 
@@ -91,7 +94,7 @@ _The Films of Charles and Ray Eames_. Directed by Charles and Ray Eames. 1972. I
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-10+00 the Post-Human: Fuller/Archigram/Cedric Price
+10{{< sup "+00" >}} the Post-Human: Fuller/Archigram/Cedric Price
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -128,7 +131,7 @@ MIT Media Labs we are visiting:
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-10+01 the Domestic Scale: Villas
+10{{< sup "+" >}}{{< sup "01" >}} the Domestic Scale: Villas
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -165,7 +168,7 @@ Anker, P. Excerpts in _From Bauhaus to Eco-House: A History of Ecological Design
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-10+02 the Civic Scale: Bigness and Monumentality
+10{{< sup "+" >}}{{< sup "02" >}} the Civic Scale: Bigness and Monumentality
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -200,7 +203,7 @@ American University of Beirut. "Rem Koolhaas Lecture on OMA's Work." May 31, 201
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-10+03 the Neighborhood: The Urban Project
+10{{< sup "+03" >}} the Neighborhood: The Urban Project
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -233,7 +236,7 @@ Busquets, Joan. "[Urban Projects](http://www.bau-barcelona.com/studio/projects/s
 {{< tdopen >}}
 
 
-10+04 the City: The Granite Garden
+10{{< sup "+04" >}} the City: The Granite Garden
 
 _Guest Lecturer: Anne Whiston Spirn_
 
@@ -266,7 +269,7 @@ Mostafavi, M., and G. Doherty. _Ecological Urbanism_. Lars Muller Publishers, 20
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-10+05 the Metropolis: Megalopolis
+10{{< sup "+05" >}} the Metropolis: Megalopolis
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -303,7 +306,7 @@ Friedman, Y. Excerpts from _Yona Friedman/Pro Domo_. ACTAR, 2006. ISBN: 97884965
 {{< tdopen >}}
 
 
-10+06 the Regional Scale: Manufactured Landscapes
+10{{< sup "+06" >}} the Regional Scale: Manufactured Landscapes
 
 _Guest Lecturer: Dan Adams_
 
@@ -336,7 +339,7 @@ Ghosn, R., ed. _New Geographies, 2: Landscapes of Energy_. Harvard University Pr
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-10+07 the Earth Scale: Conclusions
+10{{< sup "+07" >}} the Earth Scale: Conclusions
 {{< tdclose >}}
 {{< tdopen >}}
 

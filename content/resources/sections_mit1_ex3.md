@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Section drawing of cube.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-111-introduction-to-architecture-environmental-design-spring-2014/0d7daf0a8767459f9f303294e50e0cd1_sections_mit1_ex3.jpg
+file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/0d7daf0a8767459f9f303294e50e0cd1_sections_mit1_ex3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Section drawing of cube.
   credit: ''
   image-alt: One drawing of square with lines showing different sectional quality.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Exercise 3
+parent_type: CourseSection
 resourcetype: Image
 title: sections_mit1_ex3.jpg
 uid: 0d7daf0a-8767-459f-9f30-3294e50e0cd1

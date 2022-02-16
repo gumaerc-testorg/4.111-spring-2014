@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 9b30db11-1b8b-4082-a5f1-6c312ffa8eac
 title: Exercise 1
 uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
@@ -9,7 +13,7 @@ uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 ### Exercise 1: Human Scale: Proportions and Rhythm
 
 _Courtesy of MIT Student, Johanna Greenspan-Johnston, Martin Hackl and Kristen Wu. Used with permission._
-{{< image-gallery id="3ac84bd1-e2d8-08d0-ec4e-f378022801f6_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-111-introduction-to-architecture-environmental-design-spring-2014/" >}}
+{{< image-gallery id="3ac84bd1-e2d8-08d0-ec4e-f378022801f6_nanogallery2" baseUrl="/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/" >}}
 {{< image-gallery-item href="48896a7d912a8a5f5504470c08bc8096_measurement_ab_ex1.jpg" data-ngdesc="" text="" >}}
 {{< image-gallery-item href="39a309ef8b847f09671e5a890eecddad_wire_ab_ex1.jpg" data-ngdesc="" text="" >}}
 {{< image-gallery-item href="488bed53327ca23473ba203d444ccff8_pencilFree_ab_ex1.jpg" data-ngdesc="" text="" >}}

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Pencil drawing of wire projection.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-111-introduction-to-architecture-environmental-design-spring-2014/7a4ef7f8612793211a4b94f84dd117ef_pencil_mh_ex1.jpg
+file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/7a4ef7f8612793211a4b94f84dd117ef_pencil_mh_ex1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Pencil drawing of wire projection.
   credit: ''
   image-alt: Three layers of angled lines drawn in pencil.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Exercise 1
+parent_type: CourseSection
 resourcetype: Image
 title: pencil_mh_ex1.jpg
 uid: 7a4ef7f8-6127-9321-1a4b-94f84dd117ef

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Nine diagrams of square grids representing cuts in the cube.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-111-introduction-to-architecture-environmental-design-spring-2014/5fd0ce653c326bff79928abbbfe294fc_9grid_ro_ex3.jpg
+file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/5fd0ce653c326bff79928abbbfe294fc_9grid_ro_ex3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Nine diagrams of square grids representing cuts in the cube.
   credit: ''
   image-alt: Nine, six-by-six grids with three line segments outlined in each.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Exercise 3
+parent_type: CourseSection
 resourcetype: Image
 title: 9grid_ro_ex3.jpg
 uid: 5fd0ce65-3c32-6bff-7992-8abbbfe294fc

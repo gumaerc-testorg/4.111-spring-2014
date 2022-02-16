@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1218a40d-d314-fc68-d574-fb01c6e80e4a
 ---
@@ -29,7 +31,7 @@ STUDIOS
 {{< tdopen >}}
 
 
-A Trans‐Scalar‐Practice: 10‐03 to 10+07
+A Trans‐Scalar‐Practice: 10{{< sup "‐03" >}} to 10{{< sup "+0" >}}{{< sup "7" >}}
 
 from Objects to Earth
 
@@ -47,7 +49,7 @@ Assignment 1.1: Body Measurements
 {{< tdopen >}}
 
 
-10+00 the Human Scale: Bauhaus/Eames
+10{{< sup "+00" >}} the Human Scale: Bauhaus/Eames
 
 Visit to the woodshop
 
@@ -99,7 +101,7 @@ Assignment 1.2: Pencil, Pen Drawing
 6
 {{< tdclose >}}
 {{< tdopen >}}
-10+00 the Post-Human: Fuller/Archigram/Cedric Price
+10{{< sup "+00" >}} the Post-Human: Fuller/Archigram/Cedric Price
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 1.3: Thinking 3D
@@ -151,7 +153,7 @@ Assignment 1.4: Introduction
 10
 {{< tdclose >}}
 {{< tdopen >}}
-10+01 the Domestic Scale: Villas
+10{{< sup "+01" >}} the Domestic Scale: Villas
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 1.4: Lines Along 3 Projections
@@ -199,7 +201,7 @@ Assignment 2.1: Cube 3x3x3
 14
 {{< tdclose >}}
 {{< tdopen >}}
-10+02 the Civic Scale: Bigness and Monumentality
+10{{< sup "+02" >}} the Civic Scale: Bigness and Monumentality
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 2.1: Abstracting the Measurments
@@ -223,7 +225,7 @@ Assignment 2.1: Drawing the Abstraction
 16
 {{< tdclose >}}
 {{< tdopen >}}
-10+03 the Neighborhood: The Urban Project
+10{{< sup "+03" >}} the Neighborhood: The Urban Project
 {{< tdclose >}}
 {{< tdopen >}}
 Assignment 2.2: Amplifying to 6x6x6
@@ -261,7 +263,7 @@ Assignment 2.2: Best Cube is Chosen to be Built in Bass Wood
 {{< tdopen >}}
 
 
-10+04 the City: The Granite Garden
+10{{< sup "+04" >}} the City: The Granite Garden
 
 _Guest Lecturer: Anne Whiston Spirn_
 
@@ -303,7 +305,7 @@ _Guest Lecturer: Anne Whiston Spirn_
 {{< tdopen >}}
 
 
-10+06 the Regional Scale: Manufactured Landscapes
+10{{< sup "+06" >}} the Regional Scale: Manufactured Landscapes
 
 _Guest Lecturer: Alan Berger_
 {{< tdclose >}}

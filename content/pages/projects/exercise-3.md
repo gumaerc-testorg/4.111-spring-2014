@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 9b30db11-1b8b-4082-a5f1-6c312ffa8eac
 title: Exercise 3
 uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
@@ -9,7 +13,7 @@ uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 ### Exercise 3: Architecture Scale: Tectonic Movement
 
 _Courtesy of Julie Ko, Heather Soukup Martin Hackl, Rae Oakley, Johanna Greenspan-Johnston and MIT Student. Used with permission._
-{{< image-gallery id="306905c6-83d8-4a53-fff4-c4b8d2c72901_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-111-introduction-to-architecture-environmental-design-spring-2014/" >}}
+{{< image-gallery id="306905c6-83d8-4a53-fff4-c4b8d2c72901_nanogallery2" baseUrl="/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/" >}}
 {{< image-gallery-item href="302f2abc05f5d84b2577e0872259756c_measurement_mit1_ex3.jpg" data-ngdesc="Measurement chart and diagram." text="Measurement chart and diagram." >}}
 {{< image-gallery-item href="17636f4923e0177be04d988f49538090_9grid_mit1_ex3.jpg" data-ngdesc="Nine diagrams of square grids representing cuts in the cube." text="Nine diagrams of square grids representing cuts in the cube." >}}
 {{< image-gallery-item href="04b5351cdf8ee605f5e7bc1591ff349b_elevClosed_mit1_ex3.jpg" data-ngdesc="Six elevations of closed cube." text="Six elevations of closed cube." >}}
