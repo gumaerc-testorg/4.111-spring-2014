@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 2
 parent_type: CourseSection
+parent_uid: 42db91c5-8238-1124-9345-ca68a96237aa
 resourcetype: Image
 title: modelA_mit3_ex2.jpg
 uid: 6b2f01f5-958a-1737-6fec-5726d2fee6a9

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 682035d6-5ab6-b14b-da05-205644c8634a
 resourcetype: Document
 title: Assignment 1.4 Human Scale:Transparency
 uid: ad3cd517-ff3d-fdc9-de78-8f2323bbba42

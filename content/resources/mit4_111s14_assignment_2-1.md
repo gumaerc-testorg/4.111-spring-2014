@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 682035d6-5ab6-b14b-da05-205644c8634a
 resourcetype: Document
 title: 'Assignment 2.1 Architecture Scale: Measurement'
 uid: 2575382a-848e-95f6-e1f9-a2dd1b60ac95

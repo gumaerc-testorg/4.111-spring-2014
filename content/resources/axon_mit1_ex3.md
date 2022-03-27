@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: axon_mit1_ex3.jpg
 uid: 3d7d2147-c94c-9055-976b-853c6d3e465b

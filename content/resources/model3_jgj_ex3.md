@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: model3_jgj_ex3.jpg
 uid: cd67f5bb-9a1c-808f-d390-cad9971a7e1e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 682035d6-5ab6-b14b-da05-205644c8634a
 resourcetype: Document
 title: 'Assignment 1.2 Human Scale: Projection, Tracing, Shadow'
 uid: cd9ca052-6b72-8bd5-f82a-f73002df5a55

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 682035d6-5ab6-b14b-da05-205644c8634a
 resourcetype: Document
 title: 'Assignment 1.3 Human Scale: 3D Model'
 uid: ffb9a83d-ab75-29c0-3a70-4c7dfc55fd6b

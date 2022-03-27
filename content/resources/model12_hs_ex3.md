@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: model12_hs_ex3.jpg
 uid: a4b7517f-96fc-c72a-d7e1-a828e6416894

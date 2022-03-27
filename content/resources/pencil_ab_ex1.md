@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: pencil_ab_ex1.jpg
 uid: d5d32113-8717-c5c9-88ea-044ab1e951f5

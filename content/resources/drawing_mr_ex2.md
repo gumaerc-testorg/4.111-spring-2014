@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 2
 parent_type: CourseSection
+parent_uid: 42db91c5-8238-1124-9345-ca68a96237aa
 resourcetype: Image
 title: drawing_mr_ex2.jpg
 uid: 209a6d7c-49c0-8b0c-daba-37dbfaac0386

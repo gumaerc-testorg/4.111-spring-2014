@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 682035d6-5ab6-b14b-da05-205644c8634a
 resourcetype: Document
 title: Assignment 1.5 Human Scale:Translation
 uid: 5d1dd03c-3843-6c0c-f499-38aec773319e

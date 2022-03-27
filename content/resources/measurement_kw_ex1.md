@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: measurement_kw_ex1.jpg
 uid: 6cce7a80-f702-24dd-6d60-5208b168f871

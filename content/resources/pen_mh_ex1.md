@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
+parent_uid: 3ac84bd1-e2d8-08d0-ec4e-f378022801f6
 resourcetype: Image
 title: pen_mh_ex1.jpg
 uid: 9d5da999-d92a-c17a-0d64-c40b6080e759

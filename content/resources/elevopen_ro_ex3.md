@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
+parent_uid: 306905c6-83d8-4a53-fff4-c4b8d2c72901
 resourcetype: Image
 title: elevOpen_ro_ex3.JPG
 uid: a58a59e0-35bb-3ba5-f15c-deeccf1853f0
