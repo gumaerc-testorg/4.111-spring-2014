@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Left perspective of model.
-file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b3f1ed8886d895915755567cdefd2454_modelL_jgj_ex1.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b3f1ed8886d895915755567cdefd2454_modelL_jgj_ex1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Left perspective of model.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: modelL_jgj_ex1.jpg
 uid: b3f1ed88-86d8-9591-5755-567cdefd2454
 ---
+Left perspective of model.
+

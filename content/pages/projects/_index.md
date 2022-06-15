@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section features sample student work for the course assignments.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,9 +8,9 @@ title: Projects
 uid: 9b30db11-1b8b-4082-a5f1-6c312ffa8eac
 ---
 
-The assignments that correspond to the three exercises are available on the [Assignments]({{< baseurl >}}/pages/assignments) section page. The links below lead to the sample student work produced for each exercise.
+The assignments that correspond to the three exercises are available on the {{% resource_link 682035d6-5ab6-b14b-da05-205644c8634a "Assignments" %}} section page. The links below lead to the sample student work produced for each exercise.
 
-[Exercise 1: Human Scale: Proportions and Rhythm]({{< baseurl >}}/pages/projects/exercise-1)
+{{% resource_link 3ac84bd1-e2d8-08d0-ec4e-f378022801f6 "Exercise 1: Human Scale: Proportions and Rhythm" %}}
 --------------------------------------------------------------------------------------------
 
 *   Measurement charts
@@ -19,13 +20,13 @@ The assignments that correspond to the three exercises are available on the [Ass
 *   Pen drawings
 *   Model photographs
 
-[Exercise 2: Human Scale: Transparency]({{< baseurl >}}/pages/projects/exercise-2)
+{{% resource_link 42db91c5-8238-1124-9345-ca68a96237aa "Exercise 2: Human Scale: Transparency" %}}
 ----------------------------------------------------------------------------------
 
 *   Thread drawings
 *   Model photographs
 
-[Exercise 3: Architecture Scale: Tectonic Movement]({{< baseurl >}}/pages/projects/exercise-3)
+{{% resource_link 306905c6-83d8-4a53-fff4-c4b8d2c72901 "Exercise 3: Architecture Scale: Tectonic Movement" %}}
 ----------------------------------------------------------------------------------------------
 
 *   Measurement charts

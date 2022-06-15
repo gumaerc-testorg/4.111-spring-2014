@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Perspective of model from above.
-file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/ad653de2f642b20b8adce593b07bbb08_modelA_mit1_ex2.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/ad653de2f642b20b8adce593b07bbb08_modelA_mit1_ex2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Perspective of model from above.
@@ -17,3 +17,5 @@ resourcetype: Image
 title: modelA_mit1_ex2.jpg
 uid: ad653de2-f642-b20b-8adc-e593b07bbb08
 ---
+Perspective of model from above.
+

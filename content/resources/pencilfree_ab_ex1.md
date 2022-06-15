@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/488bed53327ca23473ba203d444ccff8_pencilFree_ab_ex1.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/488bed53327ca23473ba203d444ccff8_pencilFree_ab_ex1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

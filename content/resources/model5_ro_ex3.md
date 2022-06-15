@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Perspective of cube model in open position.
-file: /media/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/7bd95ea81cc763579e3548cce77691ca_model5_ro_ex3.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/7bd95ea81cc763579e3548cce77691ca_model5_ro_ex3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Perspective of cube model in open position.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: model5_ro_ex3.jpg
 uid: 7bd95ea8-1cc7-6357-9e35-48cce77691ca
 ---
+Perspective of cube model in open position.
+
