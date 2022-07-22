@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: pencil_ab_ex1.jpg
 uid: d5d32113-8717-c5c9-88ea-044ab1e951f5
 ---
 Pencil drawing of the wire projection.
-

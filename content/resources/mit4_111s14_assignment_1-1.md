@@ -6,6 +6,7 @@ file: /courses/4-111-introduction-to-architecture-environmental-design-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 1.1 Human Scale: Measurement, Drawing, Wire'
 uid: 97918049-1aef-9a7e-48ca-09833e15ffe2
 ---
 This resource contains information related to Human Scale: Measurement, Drawing, Wire.
-

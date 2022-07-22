@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photograph of detail of thread model with thread mapping out connections
     between two acrylic plates.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 2
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: modelDetail_mit2_ex2.jpg
 uid: b16a226c-c429-33b5-08d5-98d2cc3d7f79
 ---
 Detail of threads and volume outlined in black thread.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Wire bent at several different angles in a clockwise direction.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: wire_kw_ex1.jpg
 uid: 0a002444-1212-85e6-e262-f84b8b2cccca
 ---
 Photograph of wire.
-

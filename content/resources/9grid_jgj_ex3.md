@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Nine, six-by-six grids with three line segments outlined in each.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 9grid_jgj_ex3.jpg
 uid: 5665cdc6-2a76-f18e-19ee-162691204f4d
 ---
 diagrams of square grids representing cuts in the cube.
-

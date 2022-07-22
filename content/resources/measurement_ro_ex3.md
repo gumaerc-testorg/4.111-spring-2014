@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Chart containing diagrams of polo movements and measurements.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: measurement_ro_ex3.jpg
 uid: 3fe0b5d6-990e-0564-7b66-af87fb99dbd5
 ---
 Measurement chart and diagram.
-

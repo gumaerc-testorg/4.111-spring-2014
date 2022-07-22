@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photograph of thread model with thread mapping out connections between
     two acrylic plates.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 2
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: modelF_mit3_ex2.jpg
 uid: 24e34861-f89b-edd6-d391-c0617914edcb
 ---
 Front-facing perspective of model.
-

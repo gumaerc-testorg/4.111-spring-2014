@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of bass wood cube model with shifted portions of the cube.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: model3_jgj_ex3.jpg
 uid: cd67f5bb-9a1c-808f-d390-cad9971a7e1e
 ---
 Perspective of cube model in open position.
-

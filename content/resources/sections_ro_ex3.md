@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: One drawing of square with lines showing different sectional quality.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: sections_ro_ex3.jpg
 uid: 92e7ea04-ae61-92b4-2d43-30c705c5ba2b
 ---
 Section drawing of cube.
-

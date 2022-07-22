@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Student standing in front of instructors with her project drawings and
     models.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: measurement_kw_ex1.jpg
 uid: 6cce7a80-f702-24dd-6d60-5208b168f871
 ---
 Kristen Wu presenting her drawings and models for Exercise 1 during studio review.
-

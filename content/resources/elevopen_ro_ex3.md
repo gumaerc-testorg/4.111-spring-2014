@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Six drawings of different configurations originating from a square.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: elevOpen_ro_ex3.JPG
 uid: a58a59e0-35bb-3ba5-f15c-deeccf1853f0
 ---
 Six elevations of open cube.
-

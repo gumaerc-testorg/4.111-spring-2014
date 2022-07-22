@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Chart containing ten sets of measurements and drawings of hand and body.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: measurement_jgj_ex1.jpg
 uid: c76ce828-fde5-f970-f48a-b3825bafbc6c
 ---
 Measurement chart and diagram.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Three layers of angled lines drawn in penc.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: pencil_jgj_ex1.jpg
 uid: fe85bae3-7e5e-a23c-ae5f-7e0f076a63be
 ---
 Pencil drawing of wire projection.
-

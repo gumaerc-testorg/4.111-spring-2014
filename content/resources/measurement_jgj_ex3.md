@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Chart containing diagrams of yoga movements and measurements.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: measurement_jgj_ex3.jpg
 uid: 099d1145-56b5-b9f0-580c-2ddcbdbe674e
 ---
 Measurement chart and diagram.
-

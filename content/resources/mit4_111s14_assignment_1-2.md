@@ -6,6 +6,7 @@ file: /courses/4-111-introduction-to-architecture-environmental-design-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 1.2 Human Scale: Projection, Tracing, Shadow'
 uid: cd9ca052-6b72-8bd5-f82a-f73002df5a55
 ---
 This resource contains information related to Human Scale: Projection, Tracing, Shadow.
-

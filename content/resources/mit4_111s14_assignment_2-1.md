@@ -5,6 +5,7 @@ file: /courses/4-111-introduction-to-architecture-environmental-design-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 2.1 Architecture Scale: Measurement'
 uid: 2575382a-848e-95f6-e1f9-a2dd1b60ac95
 ---
 This resource contains information related to Architecture Scale: Measurement.
-

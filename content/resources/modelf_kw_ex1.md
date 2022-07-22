@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of white model with extruded and intersecting planes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: modelF_kw_ex1.jpg
 uid: 7fadb3e0-4645-b8f4-92fd-0d84fe81eab7
 ---
 Front-facing perspective of model.
-

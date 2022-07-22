@@ -5,6 +5,7 @@ file: /courses/4-111-introduction-to-architecture-environmental-design-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 2.2 Architecture Scale: Cubes'
 uid: 4530e5f6-4ec4-9f5e-dcb6-e4cd747442fc
 ---
 This resource contains information related to Architecture Scale: Cubes.
-

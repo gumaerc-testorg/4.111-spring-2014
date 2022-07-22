@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of white model with decreasing height of extruded planes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: modelS_mh_ex1.jpg
 uid: 610ecc14-6fb7-7f8e-9c72-aec8b0b2c5cf
 ---
 Side perspective of model.
-

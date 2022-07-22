@@ -5,6 +5,7 @@ file: /courses/4-111-introduction-to-architecture-environmental-design-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 2.4 Architecture Scale: Expansion'
 uid: 48c0594c-d794-9459-f336-e9824d13780a
 ---
 This resource contains information related to Architecture Scale: Expansion.
-

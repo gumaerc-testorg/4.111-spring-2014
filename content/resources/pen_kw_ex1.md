@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Three layers of angled lines drawn in pen.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: pen_kw_ex1.jpg
 uid: 7d2bdd52-e01d-cb5c-ebe6-1ba757451975
 ---
 Pen drawing of wire projection.
-

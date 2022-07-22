@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of white model with many extruded and intersecting planes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: modelL_jgj_ex1.jpg
 uid: b3f1ed88-86d8-9591-5755-567cdefd2454
 ---
 Left perspective of model.
-

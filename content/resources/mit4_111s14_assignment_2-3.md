@@ -6,6 +6,7 @@ file: /courses/4-111-introduction-to-architecture-environmental-design-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment 2.3 Architecture Scale: Site Construction'
 uid: fe7a7dda-8b7d-d051-d480-f13e045111e1
 ---
 This resource contains information related to Architecture Scale: Site Construction.
-

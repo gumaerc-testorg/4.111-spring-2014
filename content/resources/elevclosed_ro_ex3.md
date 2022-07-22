@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Six drawings of squares with lines showing cuts in model.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: elevClosed_ro_ex3.jpg
 uid: ff9b4823-90f1-cba7-fe6b-90aa2ae41d25
 ---
 Six elevations of closed cube.
-

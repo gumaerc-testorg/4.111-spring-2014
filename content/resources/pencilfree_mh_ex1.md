@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Three layers of angled lines sketched in pencil.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 1
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: pencilFree_mh_ex1.jpg
 uid: 38c27313-abfe-837c-ca29-ac961f5d106f
 ---
 Freehand pencil tracing of wire projection.
-

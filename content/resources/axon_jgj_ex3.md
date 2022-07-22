@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Axonometric of a figure originating from a cube.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 3
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: axon_jgj_ex3.jpg
 uid: 01cf9574-7abc-4479-157e-1dd99cdf5bd5
 ---
 Axonometric drawing of open cube.
-

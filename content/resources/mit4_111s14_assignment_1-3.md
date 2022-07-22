@@ -5,6 +5,7 @@ file: /courses/4-111-introduction-to-architecture-environmental-design-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 1.3 Human Scale: 3D Model'
 uid: ffb9a83d-ab75-29c0-3a70-4c7dfc55fd6b
 ---
 This resource contains information related to Human Scale: 3D Model.
-

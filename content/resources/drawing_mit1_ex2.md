@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Line drawing connecting two sets of points on opposing sides.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exercise 2
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: drawing_mit1_ex2.jpg
 uid: 410310c4-f442-4eac-6ff5-502befa07f14
 ---
 Drawing of projection of thread model.
-
