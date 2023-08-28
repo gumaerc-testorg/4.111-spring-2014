@@ -21,7 +21,7 @@ A Trans‐Scalar‐Practice: 10{{< sup "‐03" >}} to 10{{< sup "\+0" >}}{{< sup
 
 ### Required Readings
 
-![Buy at MIT Press](/images/mp_logo.gif) Rasmussen, S. E. "Scale and Proportion." Chapter 5 in *Experiencing Architecture*. MIT Press, 1964, pp. 104–26. ISBN: 9780262680028. \[Preview with [Google Books](http://books.google.com/books?id=pZ50MeEQRAoC&pg=PA104#v=onepage)\]    
+![Buy at MIT Press](/images/mp_logo.gif) Rasmussen, S. E. "Scale and Proportion." Chapter 5 in *Experiencing Architecture*. MIT Press, 1964, pp. 104–26. ISBN: 9780262680028. \[Preview with [Google Books](http://books.google.com/books?id=pZ50MeEQRAoC&pg=PA104#v=onepage)\]      
 ![Buy at MIT Press](/images/mp_logo.gif) ———. "Rhythm in Architecture." Chapter 6 in *Experiencing Architecture*. MIT Press, 1964, pp. 127–58. ISBN: 9780262680028. \[Preview with [Google Books](http://books.google.com/books?id=pZ50MeEQRAoC&pg=PA128#v=onepage&q&f=false)\]
 
 ### Take a Look At
@@ -192,7 +192,7 @@ Busquets, Joan. "[Urban Projects](http://www.bau-barcelona.com/studio/projects/s
 
 ### Required Readings
 
-Spirn, A. W. "[Ecological Urbanism: A Framework for the Design of Resilient Cities](http://www.annewhistonspirn.com/author/essays.html)." Springer Verlag, 2013.
+Spirn, A. W. ["Ecological Urbanism: A Framework for the Design of Resilient Cities" (PDF)](https://www.annewhistonspirn.com/sharefiles/Spirn-EcoUrbanism-2012.pdf). Springer Verlag, 2013.
 
 ### Take a Look At
 
@@ -200,7 +200,7 @@ Spirn, A. W. *The Granite Garden: Urban Nature and Human Design*. Basic Books, 1
 
 ———. The Language of Landscape. Yale University Press, 1998. ISBN: 9780300077452.
 
-———. ["The Poetics of City and Nature: Toward a New Aesthetic for Urban Design." (PDF)](http://www.annewhistonspirn.com/pdf/LJ.pdf) *Landscape Journal* 7, no. 2 (1988): 108–26.
+———. ["The Poetics of City and Nature: Toward a New Aesthetic for Urban Design." (PDF)](https://www.annewhistonspirn.com/sharefiles/Spirn-PoeticsCityNature-1988.pdf) *Landscape Journal* 7, no. 2 (1988): 108–26.
 
 ———. [The Eye is a Door](http://www.theeyeisadoor.com/). Wolf Tree Press, 2014.
 
