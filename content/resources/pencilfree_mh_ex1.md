@@ -2,6 +2,7 @@
 content_type: resource
 description: Freehand pencil tracing of wire projection.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/38c27313abfe837cca29ac961f5d106f_pencilFree_mh_ex1.jpg
+file_size: 128066
 file_type: image/jpeg
 image_metadata:
   caption: Freehand pencil tracing of wire projection.

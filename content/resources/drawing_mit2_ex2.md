@@ -2,6 +2,7 @@
 content_type: resource
 description: Drawing of projection of thread model.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/7411c002ce8e86c11d05ce0c20ac0c1e_drawing_mit2_ex2.jpg
+file_size: 71110
 file_type: image/jpeg
 image_metadata:
   caption: Drawing of projection of thread model.
