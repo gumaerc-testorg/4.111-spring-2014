@@ -2,6 +2,7 @@
 content_type: resource
 description: Front-facing perspective of model.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/7fadb3e04645b8f492fd0d84fe81eab7_modelF_kw_ex1.jpg
+file_size: 106038
 file_type: image/jpeg
 image_metadata:
   caption: Front-facing perspective of model.

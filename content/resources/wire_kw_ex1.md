@@ -2,6 +2,7 @@
 content_type: resource
 description: Photograph of wire.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/0a002444121285e6e262f84b8b2cccca_wire_kw_ex1.jpg
+file_size: 55273
 file_type: image/jpeg
 image_metadata:
   caption: Photograph of wire.

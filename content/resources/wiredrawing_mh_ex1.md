@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/4baa67d8549c31fe257aeed7cbd40226_wireDrawing_mh_ex1.jpg
+file_size: 92626
 file_type: image/jpeg
 image_metadata:
   caption: ''

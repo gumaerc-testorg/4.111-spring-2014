@@ -2,6 +2,7 @@
 content_type: resource
 description: Perspective of cube model in open position on base.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/c0bbfc1d0cafc4c87c5c45990ebfcd7b_model3_mit_ex3.jpg
+file_size: 104348
 file_type: image/jpeg
 image_metadata:
   caption: Perspective of cube model in open position on base.
