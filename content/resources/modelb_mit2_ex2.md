@@ -2,6 +2,7 @@
 content_type: resource
 description: Perspective of model from below.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/49eba4c2190b6f2f1027f58bec8e38f2_modelB_mit2_ex2.jpg
+file_size: 117463
 file_type: image/jpeg
 image_metadata:
   caption: Perspective of model from below.

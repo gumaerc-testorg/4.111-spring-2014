@@ -2,6 +2,7 @@
 content_type: resource
 description: Section drawings of cube.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/4bd8acfe8a127840467e26f63ef141bd_sections_jgj_ex3.jpg
+file_size: 56101
 file_type: image/jpeg
 image_metadata:
   caption: Section drawings of cube.

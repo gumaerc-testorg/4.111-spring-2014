@@ -2,6 +2,7 @@
 content_type: resource
 description: Right perspective of model.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/de6b145dae37f5495481d605eb9f264a_modelR_jgj_ex1.jpg
+file_size: 100590
 file_type: image/jpeg
 image_metadata:
   caption: Right perspective of model.

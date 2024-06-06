@@ -2,6 +2,7 @@
 content_type: resource
 description: Six elevations of open cube.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/c9db5351b83a50422c1693b6377efb2e_elevOpen_mit1_ex3.jpg
+file_size: 71858
 file_type: image/jpeg
 image_metadata:
   caption: Six elevations of open cube.

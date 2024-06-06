@@ -2,6 +2,7 @@
 content_type: resource
 description: Axonometric drawing of open cube.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/3d7d2147c94c9055976b853c6d3e465b_axon_mit1_ex3.jpg
+file_size: 86820
 file_type: image/jpeg
 image_metadata:
   caption: Axonometric drawing of open cube.

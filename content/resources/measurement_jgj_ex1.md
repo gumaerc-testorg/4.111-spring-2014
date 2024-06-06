@@ -2,6 +2,7 @@
 content_type: resource
 description: Measurement chart and diagram.
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/c76ce828fde5f970f48ab3825bafbc6c_measurement_jgj_ex1.jpg
+file_size: 135215
 file_type: image/jpeg
 image_metadata:
   caption: Measurement chart and diagram.

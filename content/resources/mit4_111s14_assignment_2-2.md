@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to Architecture Scale: Cubes.'
 file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/4530e5f64ec49f5edcb6e4cd747442fc_MIT4_111S14_Assignment_2.2.pdf
+file_size: 155691
 file_type: application/pdf
 learning_resource_types:
 - Assignments
