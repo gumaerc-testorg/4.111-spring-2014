@@ -21,7 +21,7 @@ A Trans‐Scalar‐Practice: 10{{< sup "‐03" >}} to 10{{< sup "\+0" >}}{{< sup
 
 ### Required Readings
 
-![Buy at MIT Press](/images/mp_logo.gif) Rasmussen, S. E. "Scale and Proportion." Chapter 5 in *Experiencing Architecture*. MIT Press, 1964, pp. 104–26. ISBN: 9780262680028. \[Preview with [Google Books](http://books.google.com/books?id=pZ50MeEQRAoC&pg=PA104#v=onepage)\]      
+![Buy at MIT Press](/images/mp_logo.gif) Rasmussen, S. E. "Scale and Proportion." Chapter 5 in *Experiencing Architecture*. MIT Press, 1964, pp. 104–26. ISBN: 9780262680028. \[Preview with [Google Books](http://books.google.com/books?id=pZ50MeEQRAoC&pg=PA104#v=onepage)\]       
 ![Buy at MIT Press](/images/mp_logo.gif) ———. "Rhythm in Architecture." Chapter 6 in *Experiencing Architecture*. MIT Press, 1964, pp. 127–58. ISBN: 9780262680028. \[Preview with [Google Books](http://books.google.com/books?id=pZ50MeEQRAoC&pg=PA128#v=onepage&q&f=false)\]
 
 ### Take a Look At
@@ -260,7 +260,7 @@ Ghosn, R., ed. *New Geographies, 2: Landscapes of Energy*. Harvard University Pr
 
 [*Manufactured Landscapes*](http://www.imdb.com/title/tt0832903/). Directed by Jennifer Baichwal. Color, 86 min. DVD. 2007. Zeitgeist Films,2007.
 
-[Roadmap 2050](http://www.roadmap2050.eu/)
+[Roadmap 2050 (PDF)](https://energy.ec.europa.eu/system/files/2014-10/roadmap2050_ia_20120430_en_0.pdf).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10{{< sup "\+07" >}} the Earth Scale: Conclusions
