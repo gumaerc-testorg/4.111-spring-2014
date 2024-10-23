@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Left perspective of model.
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b3f1ed8886d895915755567cdefd2454_modelL_jgj_ex1.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b3f1ed8886d895915755567cdefd2454_modelL_jgj_ex1.jpg
 file_size: 100438
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to Architecture Scale: Expansion.'
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/48c0594cd7949459f336e9824d13780a_MIT4_111S14_Assignment_2.4.pdf
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/48c0594cd7949459f336e9824d13780a_MIT4_111S14_Assignment_2.4.pdf
 file_size: 109682
 file_type: application/pdf
 learning_resource_types:
