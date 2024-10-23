@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Side perspective of model.
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/610ecc146fb77f8e9c72aec8b0b2c5cf_modelS_mh_ex1.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/610ecc146fb77f8e9c72aec8b0b2c5cf_modelS_mh_ex1.jpg
 file_size: 118035
 file_type: image/jpeg
 image_metadata:
