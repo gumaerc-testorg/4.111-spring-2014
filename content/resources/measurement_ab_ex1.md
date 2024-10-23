@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/48896a7d912a8a5f5504470c08bc8096_measurement_ab_ex1.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/48896a7d912a8a5f5504470c08bc8096_measurement_ab_ex1.jpg
 file_size: 64037
 file_type: image/jpeg
 image_metadata:

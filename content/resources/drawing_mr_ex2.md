@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Drawing of projection of thread model.
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/209a6d7c49c08b0cdaba37dbfaac0386_drawing_mr_ex2.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/209a6d7c49c08b0cdaba37dbfaac0386_drawing_mr_ex2.jpg
 file_size: 93044
 file_type: image/jpeg
 image_metadata:
