@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Perspective of model from below.
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b37e436021534e4f44a1f3e32cc35954_modelB_mr_ex2.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b37e436021534e4f44a1f3e32cc35954_modelB_mr_ex2.jpg
 file_size: 122403
 file_type: image/jpeg
 image_metadata:

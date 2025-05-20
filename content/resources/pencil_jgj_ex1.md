@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pencil drawing of wire projection.
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/fe85bae37e5ea23cae5f7e0f076a63be_pencil_jgj_ex1.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/fe85bae37e5ea23cae5f7e0f076a63be_pencil_jgj_ex1.jpg
 file_size: 108175
 file_type: image/jpeg
 image_metadata:

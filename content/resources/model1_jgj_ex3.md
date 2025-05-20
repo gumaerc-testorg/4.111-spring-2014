@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Perspective of cube model in closed position.
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/e7d5c9facbe1a5b07e10a52699ba8ac6_model1_jgj_ex3.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/e7d5c9facbe1a5b07e10a52699ba8ac6_model1_jgj_ex3.jpg
 file_size: 74441
 file_type: image/jpeg
 image_metadata:

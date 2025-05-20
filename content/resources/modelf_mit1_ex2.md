@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Front-facing perspective of model.
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/52dfd044b6769e10e45e3f2e1beb23ea_modelF_mit1_ex2.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/52dfd044b6769e10e45e3f2e1beb23ea_modelF_mit1_ex2.jpg
 file_size: 127278
 file_type: image/jpeg
 image_metadata:
