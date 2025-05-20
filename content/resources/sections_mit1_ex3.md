@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Section drawing of cube.
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/0d7daf0a8767459f9f303294e50e0cd1_sections_mit1_ex3.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/0d7daf0a8767459f9f303294e50e0cd1_sections_mit1_ex3.jpg
 file_size: 54713
 file_type: image/jpeg
 image_metadata:

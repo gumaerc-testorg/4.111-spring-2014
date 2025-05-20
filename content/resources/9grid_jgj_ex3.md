@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: diagrams of square grids representing cuts in the cube.
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/5665cdc62a76f18e19ee162691204f4d_9grid_jgj_ex3.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/5665cdc62a76f18e19ee162691204f4d_9grid_jgj_ex3.jpg
 file_size: 106073
 file_type: image/jpeg
 image_metadata:

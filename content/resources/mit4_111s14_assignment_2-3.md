@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to Architecture Scale: Site
   Construction.'
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/fe7a7dda8b7dd051d480f13e045111e1_MIT4_111S14_Assignment_2.3.pdf
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/fe7a7dda8b7dd051d480f13e045111e1_MIT4_111S14_Assignment_2.3.pdf
 file_size: 91671
 file_type: application/pdf
 learning_resource_types:

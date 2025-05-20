@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Six elevations of closed cube.
-file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/04b5351cdf8ee605f5e7bc1591ff349b_elevClosed_mit1_ex3.jpg
+file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/04b5351cdf8ee605f5e7bc1591ff349b_elevClosed_mit1_ex3.jpg
 file_size: 63197
 file_type: image/jpeg
 image_metadata:
