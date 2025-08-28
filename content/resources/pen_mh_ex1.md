@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pen drawing of wire projection.
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/9d5da999d92ac17a0d64c40b6080e759_pen_mh_ex1.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/9d5da999d92ac17a0d64c40b6080e759_pen_mh_ex1.jpg
 file_size: 131338
 file_type: image/jpeg
 image_metadata:

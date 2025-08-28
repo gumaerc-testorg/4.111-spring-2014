@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Aerial perspective of model.
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/496a40f4d5128e38c452ab436da4f225_modelA_jgj_ex1.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/496a40f4d5128e38c452ab436da4f225_modelA_jgj_ex1.jpg
 file_size: 112803
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Measurement chart and diagram.
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/302f2abc05f5d84b2577e0872259756c_measurement_mit1_ex3.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/302f2abc05f5d84b2577e0872259756c_measurement_mit1_ex3.jpg
 file_size: 68876
 file_type: image/jpeg
 image_metadata:

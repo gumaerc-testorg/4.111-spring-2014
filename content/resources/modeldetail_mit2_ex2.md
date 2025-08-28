@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Detail of threads and volume outlined in black thread.
-file: /courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b16a226cc42933b508d598d2cc3d7f79_modelDetail_mit2_ex2.jpg
+file: /ol-ocw-studio-app/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b16a226cc42933b508d598d2cc3d7f79_modelDetail_mit2_ex2.jpg
 file_size: 135254
 file_type: image/jpeg
 image_metadata:
